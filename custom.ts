@@ -19,7 +19,7 @@ namespace dofer {
 
     //% block
     //% group="gof"
-    export function foo(i: string, sprite:Sprite): void {
+    export function foo(i: string, sprite:MyEnum): void {
         
     }
 
