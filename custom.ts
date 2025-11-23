@@ -1,5 +1,15 @@
-//% color=#424369
+// the enum
+enum MyEnum {
+    //%block="phone"
+    Phone,
+    //%="sukutur"
+    Sukutur
+}
 
+
+
+//seting the color of the extension
+//% color=#424369
 namespace dofer {
     //% groups="['gof', loo]"
 
